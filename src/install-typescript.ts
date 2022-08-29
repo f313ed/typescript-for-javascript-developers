@@ -1,4 +1,4 @@
 {
-    let message: string = "Hello TS-node!"
+    let message: string = "Hello TS-node!!!"
     console.log({ message })
 }
